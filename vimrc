@@ -1,4 +1,4 @@
-execute pathogen#infect()
+call pathogen#infect("~/dotfiles/dotvim/bundle/{}")
 
 " Display line numbers
 set number
