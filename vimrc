@@ -15,13 +15,11 @@ set ttimeoutlen=50
 " Set airline theme
 let g:airline_theme='simple'
 
-<<<<<<< HEAD
 " Fix ctrl + arrow keys cursor positioning
 imap ^[OA <ESC>ki
 imap ^[OB <ESC>ji
 imap ^[OC <ESC>li
 imap ^[OD <ESC>hi
-=======
+
 " Enable syntax higlighting
 syntax on
->>>>>>> cf3c4a4d33419e3cb8d360ac34b01ab42b056678
