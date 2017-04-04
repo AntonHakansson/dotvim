@@ -14,3 +14,9 @@ set ttimeoutlen=50
 
 " Set airline theme
 let g:airline_theme='simple'
+
+" Fix ctrl + arrow keys cursor positioning
+imap ^[OA <ESC>ki
+imap ^[OB <ESC>ji
+imap ^[OC <ESC>li
+imap ^[OD <ESC>hi
