@@ -14,3 +14,6 @@ set ttimeoutlen=50
 
 " Set airline theme
 let g:airline_theme='simple'
+
+" Enable syntax higlighting
+syntax on
