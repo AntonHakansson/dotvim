@@ -23,3 +23,6 @@ imap ^[OD <ESC>hi
 
 " Enable syntax higlighting
 syntax on
+
+" Enable mouse events for a=all
+set mouse=a
